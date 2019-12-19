@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+  }
+  
+  #header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row wrap;
+    background-color: black;
+  }
+  
+  .nav_links {
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .nav_links a {
+    text-decoration: none;
+    padding: 5px;
+    background-color: red;
+    color: white;
+    border: solid gray 1px;
+  }
+  
+  #menu {
+    text-align: center;
+  }
+  
+  .menu_container {
+    display: flex;
+    flex-flow: row-wrap;
+    justify-content: center;
+  }
+  
+  .menu_list {
+    text-align: left;
+    list-style-type: none;
+    border-top: 1px dashed;
+    border-bottom: 1px dashed;
+  }
+  .menu_list li {
+    font-size: 0.7em;
+    padding: 0.7em;
+  }
