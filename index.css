@@ -48,3 +48,10 @@ body {
   font-size: 0.7em;
   padding: 0.7em;
 }
+
+.reservation_tab {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
