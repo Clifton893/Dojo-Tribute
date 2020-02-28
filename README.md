@@ -1,6 +1,6 @@
 # Tribute to the Dojo Sake Bar & Izakaya
 
-This project is a single-page static website, using pure HTML and CSS. It's a love letter honoring the now-closed restaurant where I apprenticed as a chef.
+This project is a single-page static website, using vanilla HTML and CSS. It's a love letter honoring the now-closed restaurant where I apprenticed as a chef.
 
 ![alt text](https://i.imgur.com/bii8cMC.jpg "Logo")
 
@@ -14,7 +14,7 @@ To include:
 
 ### Built With
 * Visual Studio Code
-* CodePen IDE
+* ~~CodePen IDE~~ (initial drafting)
 
 ### Author
 Clifton Long Jr.
