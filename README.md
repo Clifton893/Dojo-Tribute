@@ -6,6 +6,8 @@
 *"Irasshaimase!"* 
 This is a training project, for my growth in web design. I originally built it with vanilla HTML and CSS; and now I'll be completely overhauling it as a Bootstrap 4 and jQuery training exercise.
 
+**Status:** In redesign phase
+
 ### Technologies
 * Bootstrap 4
 * jQuery
