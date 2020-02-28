@@ -1,20 +1,15 @@
 # Tribute to the Dojo Sake Bar & Izakaya
 
-This project is a single-page static website, using vanilla HTML and CSS. It's a love letter honoring the now-closed restaurant where I apprenticed as a chef.
-
 ![alt text](https://i.imgur.com/bii8cMC.jpg "Logo")
 
-## Irasshaimase!
+## Introduction
+*"Irasshaimase!"* 
+This is a training project, for my growth in web design. I originally built it with vanilla HTML and CSS; and now I'll be completely overhauling it as a Bootstrap 4 and jQuery training exercise.
 
-### Features
-To include:
-* Mobile-friendly responsiveness
-* Built-in HTML menu (rather than pdf) for easy reading
-* Reservation form
-
-### Built With
+### Technologies
+* Bootstrap 4
+* jQuery
 * Visual Studio Code
-* ~~CodePen IDE~~ (initial drafting)
 
 ### Author
 Clifton Long Jr.
