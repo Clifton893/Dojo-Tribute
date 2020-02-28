@@ -17,7 +17,5 @@ Clifton Long Jr.
 ### License
 This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/Clifton893/dojo-tribute/blob/master/LICENSE) file for details.
 
-### Acknowledgements
-* Moto-san
-* Mike
-* Way too many others to list right now
+### Inspirations
+* Moto-san and Mike
