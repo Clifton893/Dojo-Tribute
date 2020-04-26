@@ -4,20 +4,18 @@
 
 ## Introduction
 *"Irasshaimase!"* 
-This is a training project, for my growth in web design. I originally built it with vanilla HTML and CSS; and now I'll be completely overhauling it as a Bootstrap 4 and jQuery training exercise.
+This was a training project early, early on in my coding education. It was a very simple HTML page, not terribly well-built, inspired by the place where I apprenticed as a chef. I'd like to circle back to it and give it a total overhaul, when I'm a bit happier with my developer skills.
 
-**Status:** In redesign phase
+**Project Status:** Concluded
 
-### Technologies
-* Bootstrap 4
-* jQuery
+### Self-Reflection
+- This exercise was before I even touched Bootstrap or a proper framework. I wasn't using snippets at all--every styling was hacked together by hand, like a caveman. I've come a long way.
+
+### Technologies Used
 * Visual Studio Code
-
-### Author
-Clifton Long Jr.
-
-### License
-This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/Clifton893/dojo-tribute/blob/master/LICENSE) file for details.
 
 ### Inspirations
 * Moto-san and Mike
+
+### License
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/Clifton893/dojo-tribute/blob/master/LICENSE) file for details.
