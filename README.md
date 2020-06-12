@@ -18,4 +18,4 @@ This was a training project early, early on in my coding education. It was a ver
 * Moto-san and Mike
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/Clifton893/dojo-tribute/blob/master/LICENSE) file for details.
+MIT License (c) 2020 Clifton Long
