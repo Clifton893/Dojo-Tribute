@@ -13,8 +13,8 @@ This was a training project early, early on in my coding education. Maybe 2 mont
 ### Technologies Used
 * Visual Studio Code
 
-### Inspirations
-* Moto-san and Mike
+### Credits
+- Special thanks to Moto-san and Mike, for everything
 
 ### License
 MIT License (c) 2020 Clifton Long
